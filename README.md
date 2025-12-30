@@ -19,3 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=ManojChanderMathpal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojChanderMathpal&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojChanderMathpal&layout=compact&theme=tokyonight&hide_border=true)
